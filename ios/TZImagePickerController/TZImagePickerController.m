@@ -261,7 +261,7 @@
     self.photoPreviewMaxWidth = 600;
     self.naviTitleColor = [UIColor whiteColor];
     self.naviTitleFont = [UIFont systemFontOfSize:17];
-    self.barItemTextFont = [UIFont systemFontOfSize:15];
+    self.barItemTextFont = [UIFont systemFontOfSize:25];
     self.barItemTextColor = [UIColor whiteColor];
     self.allowPreview = YES;
     // 2.2.26版本，不主动缩放图片，降低内存占用
