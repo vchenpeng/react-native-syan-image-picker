@@ -1,0 +1,49 @@
+{
+  "_from": "react-native-syan-image-picker",
+  "_id": "react-native-syan-image-picker@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-9zFw3xlmaYRy0/sE7MJHoGsRYoA=",
+  "_location": "/react-native-syan-image-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-syan-image-picker",
+    "name": "react-native-syan-image-picker",
+    "escapedName": "react-native-syan-image-picker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-syan-image-picker/download/react-native-syan-image-picker-0.3.0.tgz",
+  "_shasum": "f73170df1966698472d3fb04ecc247a06b116280",
+  "_spec": "react-native-syan-image-picker",
+  "_where": "/Users/chenpeng/Desktop/未命名文件夹 2",
+  "author": {
+    "name": "syan"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React-Native 多图片选择 支持裁剪 压缩",
+  "keywords": [
+    "react-native",
+    "image",
+    "image-picker",
+    "syan",
+    "PictureSelector",
+    "TZImagePickerController",
+    "Photo"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-syan-image-picker",
+  "scripts": {
+    "pu": "npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.0"
+}
