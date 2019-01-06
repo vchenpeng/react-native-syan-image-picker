@@ -260,8 +260,8 @@
     self.photoWidth = 828.0;
     self.photoPreviewMaxWidth = 600;
     self.naviTitleColor = [UIColor whiteColor];
-    self.naviTitleFont = [UIFont systemFontOfSize:17];
-    self.barItemTextFont = [UIFont systemFontOfSize:25];
+    self.naviTitleFont = [UIFont systemFontOfSize:18];
+    self.barItemTextFont = [UIFont systemFontOfSize:17];
     self.barItemTextColor = [UIColor whiteColor];
     self.allowPreview = YES;
     // 2.2.26版本，不主动缩放图片，降低内存占用
@@ -271,7 +271,7 @@
     self.cannotSelectLayerColor = [[UIColor whiteColor] colorWithAlphaComponent:0.8];
     self.allowCameraLocation = YES;
     
-    self.iconThemeColor = [UIColor colorWithRed:31 / 255.0 green:185 / 255.0 blue:34 / 255.0 alpha:1.0];
+    self.iconThemeColor = [UIColor colorWithRed:59 / 255.0 green:175 / 255.0 blue:218 / 255.0 alpha:1.0];
     [self configDefaultBtnTitle];
     
     CGFloat cropViewWH = MIN(self.view.tz_width, self.view.tz_height) / 3 * 2;
